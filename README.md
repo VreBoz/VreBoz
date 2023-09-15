@@ -16,5 +16,7 @@ Contact 📫
 Feel free to reach out to me:
 
 Email: info@vrebo.de
-Portfolio: vrebo.de
-LinkedIn: Connect with me
+
+Portfolio: https://vrebo.de/
+
+LinkedIn: https://www.linkedin.com/in/abdulaziz-vrebo/
