@@ -1,27 +1,15 @@
-Hi there! 👋
+# Hi, I'm Abdulaziz 👋
 
-Thanks for visiting my GitHub profile! I'd love to share a bit about myself.
+I'm a **Systems Engineer** with a focus on VMware, cloud infrastructure and modern web development.
 
-Work 🔭
+In my daily work, I deal with technologies such as VMware vSphere, vCenter, ESXi, NSX-T, vSAN, Aria Operations, storage, monitoring and infrastructure automation.
 
-I'm a Frontend Developer specializing in JavaScript, TypeScript, and Angular. I'm actively seeking junior developer roles where I can contribute to impactful projects and broaden my skill set.
+I also have experience in frontend development with JavaScript, TypeScript, Angular, React, Astro and Tailwind CSS.
 
-Education 🌱
+I'm interested in cloud technologies, automation, web performance and building reliable, user-friendly solutions.
 
-I recently completed an intensive web development training at Developer Akademie in Munich. The course was project-based, focusing on JavaScript, Angular, and Front-End development.
+## Contact 📫
 
-Interests 🤔
-
-Aside from web development, I have a strong background in interior construction, which equips me with a unique perspective on project planning and execution. My journey in IT began when I developed a website for our family business.
-
-I'm particularly interested in building scalable and user-friendly applications. I love the challenge of transforming complex problems into simple, intuitive solutions.
-
-Contact 📫
-
-Feel free to reach out to me:
-
-Email: info@vrebo.de
-
-Portfolio: https://vrebo.de/
-
-LinkedIn: https://www.linkedin.com/in/abdulaziz-vrebo/
+* Email: [abdul@vrebo.de](mailto:abdul@vrebo.de)
+* Portfolio: [vrebo.de](https://vrebo.de/)
+* LinkedIn: [linkedin.com/in/abdulaziz-vrebo](https://www.linkedin.com/in/abdulaziz-vrebo/)
