@@ -1,12 +1,12 @@
 # Hi, I'm Abdulaziz 👋
 
-I'm a **Systems Engineer** with a focus on VMware, cloud infrastructure and modern web development.
+I'm a **Software & Web Developer** and **Systems Engineer**.
 
-In my daily work, I deal with technologies such as VMware vSphere, vCenter, ESXi, NSX-T, vSAN, Aria Operations, storage, monitoring and infrastructure automation.
+I build **websites and custom web applications**. At **Vemora Studio**, I focus on technical planning, development and quality assurance.
 
-I also have experience in frontend development with JavaScript, TypeScript, Angular, React, Astro and Tailwind CSS.
+My development stack includes **TypeScript, React, Angular, Astro and Tailwind CSS**. Alongside development, I work with **VMware, cloud infrastructure and automation**—bringing an operations perspective to the software I build.
 
-I'm interested in cloud technologies, automation, web performance and building reliable, user-friendly solutions.
+[Portfolio](https://vrebo.de/) · [Vemora Studio](https://vemora-studio.de/)
 
 ## Contact 📫
 
